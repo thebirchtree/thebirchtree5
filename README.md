@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it is I Thebirchtree, owner of Birchian Flight Simulator and many Minecraft worlds 👋
 
 <!--
 **thebirchtree/thebirchtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
